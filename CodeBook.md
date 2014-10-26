@@ -4,16 +4,16 @@
 The file ‘/UCI HAR Dataset/README.txt’ explains the files that contains the data.
 
 The function run_analysis gets the data of the experiment only from these files:
-	* /UCI HAR Dataset/train/subject_train.txt
-	* /UCI HAR Dataset/train/X_train.txt
-	* /UCI HAR Dataset/train/y_train.txt
-	* /UCI HAR Dataset/test/subject_test.txt
-	* /UCI HAR Dataset/test/X_test.txt
-	* /UCI HAR Dataset/test/y_test.txt
+* /UCI HAR Dataset/train/subject_train.txt
+* /UCI HAR Dataset/train/X_train.txt
+* /UCI HAR Dataset/train/y_train.txt
+* /UCI HAR Dataset/test/subject_test.txt
+* /UCI HAR Dataset/test/X_test.txt
+* /UCI HAR Dataset/test/y_test.txt
 
 And uses the following files to rename the features and activities:
-	* /UCI HAR Dataset/features.txt
-	* /UCI HAR Dataset/activity_labels.txt
+* /UCI HAR Dataset/features.txt
+* /UCI HAR Dataset/activity_labels.txt
 
 The activity number is replaced with the corresponding activity label.
 
