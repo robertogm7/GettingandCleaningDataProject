@@ -4,14 +4,14 @@
 #run_analysis
 
 To execute this functions you only need to call it without any parameters. The following files must be in the same folder of the function:
-	* /UCI HAR Dataset/train/subject_train.txt
-	* /UCI HAR Dataset/train/X_train.txt
-	* /UCI HAR Dataset/train/y_train.txt
-	* /UCI HAR Dataset/test/subject_test.txt
-	* /UCI HAR Dataset/test/X_test.txt
-	* /UCI HAR Dataset/test/y_test.txt
-	* /UCI HAR Dataset/features.txt
-	* /UCI HAR Dataset/activity_labels.txt
+* /UCI HAR Dataset/train/subject_train.txt
+* /UCI HAR Dataset/train/X_train.txt
+* /UCI HAR Dataset/train/y_train.txt
+* /UCI HAR Dataset/test/subject_test.txt
+* /UCI HAR Dataset/test/X_test.txt
+* /UCI HAR Dataset/test/y_test.txt
+* /UCI HAR Dataset/features.txt
+* /UCI HAR Dataset/activity_labels.txt
 
 The function uses the library “reshape2”.
 
