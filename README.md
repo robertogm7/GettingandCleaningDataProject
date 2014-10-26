@@ -1,6 +1,5 @@
-GettingandCleaningDataProject
-Roberto Garza
-=============================
+#GettingandCleaningDataProject
+##README.md
 
 #run_analysis
 
